@@ -1,0 +1,18 @@
+
+{
+  "name": "Boards 2026 Countdown",
+  "short_name": "Boards'26",
+  "description": "Tactical countdown for Boards Exam 2026",
+  "start_url": "/?view=widget",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3563/3563395.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
